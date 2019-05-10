@@ -28,3 +28,5 @@ iter - The number of iterations done
 
 
 *Written by Peter Sperl*
+
+**Algorithm has no known issues**
